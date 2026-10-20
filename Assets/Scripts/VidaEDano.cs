@@ -50,7 +50,7 @@ public class VidaEDano : MonoBehaviour
     {
         if (collision.collider.CompareTag ("void"))
         {
-            ReceberDano(100);
+            ReceberDano(100); 
         }
     }
 
