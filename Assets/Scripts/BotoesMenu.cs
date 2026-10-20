@@ -27,14 +27,17 @@ void Start()
 
       public void SairDoJogo()
       {
+        
         Application.Quit();
       }
 
-       //public void OnCollisionEnter(Collision collision)
-      //{
-       //if (collision.gameObject.CompareTag("teleporte"))
-        //SceneManager.LoadScene(Fase2):
-      //}
+       public void OnCollisionEnter(Collision collision)
+      {
+       if (collision.gameObject.CompareTag("teleporte"))
+       {
+        SceneManager.LoadScene("Fase2");
+        }
+      }
 
 
   }
