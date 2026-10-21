@@ -10,6 +10,8 @@ TagManager:
   - void
   - vida
   - teleporte
+  - teleporte2
+  - teleporte3
   layers:
   - Default
   - TransparentFX

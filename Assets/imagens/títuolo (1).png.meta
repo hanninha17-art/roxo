@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 69e1f6cd1c644db46925851f15a4c271
+guid: d4aa3b28b15e26f4eb61d8cbc3be5871
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3764965889569545252
-    second: botao_jogar (1)_0
+      213: -7415160611104223055
+    second: "t\xEDtuolo (1)_0"
+  - first:
+      213: -7368876222891654097
+    second: "t\xEDtuolo (1)_1"
+  - first:
+      213: 3292734784154662062
+    second: "t\xEDtuolo (1)_2"
+  - first:
+      213: 5153795668717568123
+    second: "t\xEDtuolo (1)_3"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +109,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: botao_jogar (1)_0
+      name: "t\xEDtuolo (1)_0"
       rect:
         serializedVersion: 2
-        x: 581
-        y: 859
-        width: 655
-        height: 425
+        x: 112
+        y: 651
+        width: 175
+        height: 378
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +124,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cd3aeb8987720cbc0800000000000000
-      internalID: -3764965889569545252
+      spriteID: 1b01aae16be081990800000000000000
+      internalID: -7415160611104223055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xEDtuolo (1)_1"
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 548
+        width: 1198
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2488b40e1e7cb990800000000000000
+      internalID: -7368876222891654097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xEDtuolo (1)_2"
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 646
+        width: 273
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea47c1d27d422bd20800000000000000
+      internalID: 3292734784154662062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xEDtuolo (1)_3"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 27
+        width: 1448
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b708bdecad5f58740800000000000000
+      internalID: 5153795668717568123
       vertices: []
       indices: 
       edges: []
