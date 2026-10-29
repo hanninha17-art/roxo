@@ -12,7 +12,7 @@ void Start()
 
     public void IniciarJogo()
     {
-       SceneManager.LoadScene("TelasDeFases");
+       SceneManager.LoadScene("TelaDeFases");
     }
 
       public void VoltarAoMenu()
