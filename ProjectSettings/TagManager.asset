@@ -12,6 +12,7 @@ TagManager:
   - teleporte
   - teleporte2
   - teleporte3
+  - BalaInimigo
   layers:
   - Default
   - TransparentFX

@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 589210719741301091}
   - component: {fileID: 433034473646455992}
-  - component: {fileID: 6565899630888813476}
+  - component: {fileID: 5904781813626214250}
   m_Layer: 0
   m_Name: "Colet\xE1vel "
   m_TagString: Item
@@ -27,8 +27,8 @@ Transform:
   m_GameObject: {fileID: 4608092706086791797}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.73, y: 0.1, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 14.9597, y: 4.3591, z: 0}
+  m_LocalScale: {x: 5.242194, y: -3.8487027, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -76,8 +76,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_SortingOrder: 1
+  m_Sprite: {fileID: -4616080815472646392, guid: b68f82a2482470d44a80c56e05ecb9b3, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -88,8 +88,8 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!65 &6565899630888813476
-BoxCollider:
+--- !u!136 &5904781813626214250
+CapsuleCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -106,6 +106,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 1, y: 1, z: 0.2}
+  serializedVersion: 2
+  m_Radius: 0.1
+  m_Height: 0.33
+  m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
