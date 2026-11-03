@@ -19,5 +19,9 @@ public class BotoesDeTeleporte : MonoBehaviour
        {
         SceneManager.LoadScene("Fase3");
        }
+       if (collision.gameObject.CompareTag("teleporteFinal"))
+       {
+        SceneManager.LoadScene("Final");
+       }
       }
 }
