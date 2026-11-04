@@ -6,7 +6,7 @@ public class VidaEDano : MonoBehaviour
     // Lógica explicada pelo aluno:
     // quando o colisor do jogador colidir com o colisor do inimigo ele receberá 10 de dano
     public TextMeshProUGUI quantidadeVida;
-
+    public GameOverManager gameOverManager;
     public int vida = 100;
 
     // NOVO: Criamos um Start para a vida já começar aparecendo certa na tela ao iniciar o jogo
@@ -63,6 +63,7 @@ public class VidaEDano : MonoBehaviour
     {
         Debug.Log(gameObject.name + " morreu.");
         // Se quiser colocar uma tela de Game Over, o código entraria aqui!
+         gameOverManager.ShowGameOver();
     }
 
     void Update()

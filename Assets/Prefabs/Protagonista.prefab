@@ -184,6 +184,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   coletaTexto: {fileID: 0}
+  somColeta: {fileID: 0}
 --- !u!114 &6088469572531581401
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -197,6 +198,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   quantidadeVida: {fileID: 0}
+  gameOverManager: {fileID: 0}
   vida: 100
 --- !u!114 &4465827637406559584
 MonoBehaviour:
