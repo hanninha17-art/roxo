@@ -200,7 +200,7 @@ Transform:
   m_GameObject: {fileID: 38438143}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.11, y: 2.95, z: 0}
+  m_LocalPosition: {x: 0.16, y: 3.2, z: 0}
   m_LocalScale: {x: 0.49498034, y: 0.53502154, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -423,7 +423,7 @@ Transform:
   m_GameObject: {fileID: 230617195}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -8.5369, y: 3.077, z: 0}
+  m_LocalPosition: {x: -7.83, y: 3.48, z: 0}
   m_LocalScale: {x: 0.8847381, y: 0.6516301, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -643,7 +643,7 @@ Transform:
   m_GameObject: {fileID: 307703774}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.8729, y: 0.33, z: 0}
+  m_LocalPosition: {x: -3.77, y: 0.68, z: 0}
   m_LocalScale: {x: 0.5353345, y: 0.57910436, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -999,8 +999,8 @@ Transform:
   m_GameObject: {fileID: 649861085}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: 1, w: 0.00022196394}
-  m_LocalPosition: {x: -0.24880095, y: -0.032520756, z: 0}
-  m_LocalScale: {x: 1.2815, y: 1, z: 1}
+  m_LocalPosition: {x: 0.913, y: -0.033, z: 0}
+  m_LocalScale: {x: 1.1605463, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -1270,7 +1270,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 170.68, y: 102}
+  m_AnchoredPosition: {x: 176, y: 106}
   m_SizeDelta: {x: 183.3174, y: 73.4441}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1324383059
@@ -1577,7 +1577,7 @@ Transform:
   m_GameObject: {fileID: 1522682962}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.3022, y: 2.7145, z: 0}
+  m_LocalPosition: {x: -3.87, y: 3.09, z: 0}
   m_LocalScale: {x: 0.53396606, y: 0.54571104, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1631,7 +1631,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
